@@ -12,6 +12,8 @@ public class OpenglStart {
         window.run();    
        
        
-    }}
+    }
+
+}
        
  
